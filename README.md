@@ -1,7 +1,7 @@
 # Diwali-Sales-Project-using-Python
 
 ## Project Overview 
-The project, titled *"Diwali Sales Analysis Using Python on Colab,"* aims to analyze customer purchasing behavior during the Diwali festival. By leveraging Python for data analysis, the project explores key factors such as customer demographics, professions, sectors, and geographical locations to identify trends and patterns. The goal is to gain insights into which customer segments are most likely to make purchases during Diwali, enabling a deeper understanding of consumer preferences and behaviors during this festive period.
+The project, titled *"Diwali Sales Analysis Using Python on Colab,"*  identifies key buyer demographics—gender, age, location, marital status, product preferences, and occupation—to determine the highest purchasing power and behavior patterns
 
 ## Objective 
 To identify the key demographic profile of the most significant buyers by analyzing gender, age group, location, marital status, product category preferences, and occupation. The goal is to determine which group holds the highest purchasing power and their purchasing behavior patterns to inform targeted marketing strategies and optimize product offerings.
