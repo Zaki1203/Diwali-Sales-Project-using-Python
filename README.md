@@ -7,7 +7,7 @@ The project, titled *"Diwali Sales Analysis Using Python on Colab,"* aims to ana
 To identify the key demographic profile of the most significant buyers by analyzing gender, age group, location, marital status, product category preferences, and occupation. The goal is to determine which group holds the highest purchasing power and their purchasing behavior patterns to inform targeted marketing strategies and optimize product offerings.
 
 ## Tools 
-I utilized Google Colab for data cleaning tasks, including removing unnecessary columns, rows, and duplicates, as well as performing exploratory data analysis.
+I utilized Google Colab ,(Numpy,Pandas)for data cleaning tasks, including removing unnecessary columns, rows, and duplicates, as well as performing exploratory data analysis.Seaborn and Matplotlib for visualization
 
 ## DataSource
 
