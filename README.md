@@ -14,8 +14,14 @@ I utilized Google Colab ,(Numpy,Pandas)for data cleaning tasks, including removi
 Dataset used for this project was taken from Kaggle ,Diwali sales Data Set: [Click Here](https://github.com/Zaki1203/Diwali-Sales-Project-using-Python)
 
 ## Key Insights
-### **Key Insights:**  
  **Target Demographic:** Married women aged **26-35 years**.  
  **Location Focus:** Primarily from **Uttar Pradesh (UP), Maharashtra (MH), and Karnataka (KA)**.  
  **Industry Segments:** Working in **IT, Aviation, and Healthcare** sectors.  
  **Product Preferences:** More likely to buy from **Food, Clothing, Electronics, and Footwear** categories.  
+
+## Suggestions
+
+### Marketing Strategy: Personalized ads, festive discounts, and regional language promotions.
+### Sales Boost: Subscription models, EMI options, and influencer marketing.
+### Engagement: Leverage Instagram, YouTube, LinkedIn for brand reach.
+
