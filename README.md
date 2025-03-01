@@ -11,7 +11,7 @@ I utilized Google Colab ,(Numpy,Pandas)for data cleaning tasks, including removi
 
 ## DataSource
 
-Dataset used for this project was taken from YT ,Diwali sales Data Set: [Click Here](https://github.com/Zaki1203/Diwali-Sales-Project-using-Python)
+Dataset used for this project was taken from Kaggle ,Diwali sales Data Set: [Click Here](https://github.com/Zaki1203/Diwali-Sales-Project-using-Python)
 
 ## Key Insights
 Married woman age group 26-35yrs From UP, MH, KA working in IT, Aviation and Healthcare are mostly likely to buy products from Food,Cloth,Electronics and Footwear Category
